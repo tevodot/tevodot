@@ -1,7 +1,10 @@
 ### :sparkles: Hi there :sparkles:
  
-My name is Estevão and i'm a brazilian student :relaxed: :brazil:
-I've some experience with Java and Python from previous projects, but at the moment I'm more focused on studying JavaScript for my course conclusion project. :computer:
+My name is Estevão and i live in Brazil! (:brazil:)
+<br>
+I've been working as a developer since January's 2018 and i'm passionated about creating funny things with code lines. 
+I have experience in Java and Python from some past projects, but at the moment I'm more focused on studying JavaScript for my course conclusion project. :computer:
+
 
 <!--
 **tevodot/tevodot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
