@@ -1,10 +1,8 @@
-### :sparkles: Hi there :sparkles:
- 
-My name is Estevão and i live in Brazil! (:brazil:)
+Hi! I'm a brazilian developer who loves learning about tech. (:brazil:)
 <br>
-I've been working as a developer since January's 2018 and i'm passionated about creating funny things with code lines. 
-I have experience in Java and Python from some past projects, but at the moment I'm more focused on studying JavaScript for my course conclusion project. :computer:
-
+I have some experience in Python from some past projects, although i'm currently working as a BI analyst.
+<br>
+Looking forward to connect with collaborative people and share some takes on tech.
 
 <!--
 **tevodot/tevodot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
