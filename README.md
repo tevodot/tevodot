@@ -1,20 +1,5 @@
-Hi! I'm a brazilian developer who loves learning about tech. (:brazil:)
+(:brazil:)
 <br>
-I have some experience in Python from some past projects, although i'm currently working as a BI analyst.
+Hi everyone! I'm actively seeking opportunities to collaborate on projects that involve finance and applied economics, especially in the field of Data Science.
 <br>
-Looking forward to connect with collaborative people and share some takes on tech.
-
-<!--
-**tevodot/tevodot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm really looking forward to connecting with like-minded and collaborative individuals who share these interests!
